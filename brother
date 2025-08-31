@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>موقع foura</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 50px;
+            margin: 0;
+            min-height: 100vh;
+        }
+        .container {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 40px;
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        h1 {
+            font-size: 48px;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        p {
+            font-size: 20px;
+            line-height: 1.6;
+            margin: 15px 0;
+        }
+        .celebrate {
+            font-size: 24px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>مرحباً بك! 🌟</h1>
+        <p>هذا موقعي الأول على GitHub Pages</p>
+        <p>تم الإنشاء بواسطة foura</p>
+        <p class="celebrate">🎉 لقد نجحت في إنشاء موقع على الإنترنت!</p>
+    </div>
+</body>
+</html>
